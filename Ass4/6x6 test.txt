@@ -1,0 +1,298 @@
+Enter number of blocks: Round 1:
+   A B C D E F
+ 1 . . . . . . 
+ 2 . . . . . . 
+ 3 . . X O . . 
+ 4 . . O X . . 
+ 5 . . . . . . 
+ 6 . . . . . . 
+Player X's turn:Round 2:
+   A B C D E F
+ 1 . . . . . . 
+ 2 . . . X . . 
+ 3 . . X X . . 
+ 4 . . O X . . 
+ 5 . . . . . . 
+ 6 . . . . . . 
+Player O's turn:Invalid move!
+Player O's turn:Round 3:
+   A B C D E F
+ 1 . . . . . . 
+ 2 . . . X . . 
+ 3 . . X X . . 
+ 4 . . O O O . 
+ 5 . . . . . . 
+ 6 . . . . . . 
+Player X's turn:Invalid move!
+Player X's turn:Round 4:
+   A B C D E F
+ 1 . . . . . . 
+ 2 . . . X . . 
+ 3 . . X X . . 
+ 4 . . X O O . 
+ 5 . X . . . . 
+ 6 . . . . . . 
+Player O's turn:Round 5:
+   A B C D E F
+ 1 . . . . . . 
+ 2 . . . X . . 
+ 3 . . X X . . 
+ 4 . O O O O . 
+ 5 . X . . . . 
+ 6 . . . . . . 
+Player X's turn:Round 6:
+   A B C D E F
+ 1 . . . . . . 
+ 2 . . . X . . 
+ 3 . . X X . . 
+ 4 . X O O O . 
+ 5 X X . . . . 
+ 6 . . . . . . 
+Player O's turn:Round 7:
+   A B C D E F
+ 1 . . . O . . 
+ 2 . . . O . . 
+ 3 . . X O . . 
+ 4 . X O O O . 
+ 5 X X . . . . 
+ 6 . . . . . . 
+Player X's turn:Invalid move!
+Player X's turn:Round 8:
+   A B C D E F
+ 1 . . . O . . 
+ 2 . . . O . . 
+ 3 . . X O . . 
+ 4 . X X X X X 
+ 5 X X . . . . 
+ 6 . . . . . . 
+Player O's turn:Invalid move!
+Player O's turn:Round 9:
+   A B C D E F
+ 1 . . . O . . 
+ 2 . . . O . . 
+ 3 . . X O . . 
+ 4 . X X O X X 
+ 5 X X . O . . 
+ 6 . . . . . . 
+Player X's turn:Round 10:
+   A B C D E F
+ 1 . . . O . . 
+ 2 . . . O . . 
+ 3 . . X O . . 
+ 4 . X X X X X 
+ 5 X X . O X . 
+ 6 . . . . . . 
+Player O's turn:Round 11:
+   A B C D E F
+ 1 . . . O . . 
+ 2 . . . O . . 
+ 3 . . X O . . 
+ 4 . X X X O X 
+ 5 X X . O O O 
+ 6 . . . . . . 
+Player X's turn:Round 12:
+   A B C D E F
+ 1 . . . O . . 
+ 2 . . . O . . 
+ 3 . . X O . . 
+ 4 . X X X O X 
+ 5 X X . X X O 
+ 6 . . . X . . 
+Player O's turn:Round 13:
+   A B C D E F
+ 1 . . . O . . 
+ 2 . . . O . . 
+ 3 . . X O . . 
+ 4 . X X X O X 
+ 5 X X O O O O 
+ 6 . . . X . . 
+Player X's turn:Round 14:
+   A B C D E F
+ 1 . . . O . . 
+ 2 . . . O . . 
+ 3 . . X O . . 
+ 4 . X X X O X 
+ 5 X X X O O O 
+ 6 . X . X . . 
+Player O's turn:Round 15:
+   A B C D E F
+ 1 . . . O . . 
+ 2 . . . O . . 
+ 3 . . X O . . 
+ 4 O O O O O X 
+ 5 X X X O O O 
+ 6 . X . X . . 
+Player X's turn:Round 16:
+   A B C D E F
+ 1 . . . O . . 
+ 2 . . . O . . 
+ 3 . . X X X . 
+ 4 O O O X O X 
+ 5 X X X O O O 
+ 6 . X . X . . 
+Player O's turn:Round 17:
+   A B C D E F
+ 1 . . . O . . 
+ 2 . . . O O . 
+ 3 . . X O O . 
+ 4 O O O X O X 
+ 5 X X X O O O 
+ 6 . X . X . . 
+Player X's turn:Round 18:
+   A B C D E F
+ 1 . . . O . . 
+ 2 . . . O O . 
+ 3 . . X X X X 
+ 4 O O O X O X 
+ 5 X X X O O O 
+ 6 . X . X . . 
+Player O's turn:Round 19:
+   A B C D E F
+ 1 . . . O . . 
+ 2 . O . O O . 
+ 3 . . O X X X 
+ 4 O O O O O X 
+ 5 X X X O O O 
+ 6 . X . X . . 
+Player X's turn:Invalid move!
+Player X's turn:Round 20:
+   A B C D E F
+ 1 . . . O . . 
+ 2 . O . O O . 
+ 3 . . O X X X 
+ 4 O O O O O X 
+ 5 X X X O O X 
+ 6 . X . X . X 
+Player O's turn:Round 21:
+   A B C D E F
+ 1 . . . O . . 
+ 2 . O . O O . 
+ 3 . . O X X X 
+ 4 O O O O O X 
+ 5 O O X O O X 
+ 6 O X . X . X 
+Player X's turn:Round 22:
+   A B C D E F
+ 1 . . . O . . 
+ 2 . O . O O . 
+ 3 . . O X X X 
+ 4 O O O O X X 
+ 5 O O X X O X 
+ 6 O X X X . X 
+Player O's turn:Round 23:
+   A B C D E F
+ 1 . . . O . . 
+ 2 . O . O O . 
+ 3 . . O X X X 
+ 4 O O O O X X 
+ 5 O O X O O X 
+ 6 O O O O O X 
+Player X's turn:Round 24:
+   A B C D E F
+ 1 . . . O . . 
+ 2 . O . O O . 
+ 3 X . O X X X 
+ 4 O X O O X X 
+ 5 O O X O O X 
+ 6 O O O O O X 
+Player O's turn:Round 25:
+   A B C D E F
+ 1 . . . O . . 
+ 2 . O . O O . 
+ 3 X O O X X X 
+ 4 O O O O X X 
+ 5 O O X O O X 
+ 6 O O O O O X 
+Player X's turn:Round 26:
+   A B C D E F
+ 1 . . . O X . 
+ 2 . O . O X . 
+ 3 X O O X X X 
+ 4 O O O O X X 
+ 5 O O X O O X 
+ 6 O O O O O X 
+Player O's turn:Round 27:
+   A B C D E F
+ 1 . . . O X . 
+ 2 . O . O O O 
+ 3 X O O X O X 
+ 4 O O O O X X 
+ 5 O O X O O X 
+ 6 O O O O O X 
+Player X's turn:Round 28:
+   A B C D E F
+ 1 . . . O X X 
+ 2 . O . O X X 
+ 3 X O O X O X 
+ 4 O O O O X X 
+ 5 O O X O O X 
+ 6 O O O O O X 
+Player O's turn:Round 29:
+   A B C D E F
+ 1 . . . O X X 
+ 2 O O . O X X 
+ 3 O O O X O X 
+ 4 O O O O X X 
+ 5 O O X O O X 
+ 6 O O O O O X 
+Player X's turn:Invalid move!
+Player X's turn:Round 30:
+   A B C D E F
+ 1 . . X X X X 
+ 2 O O . X X X 
+ 3 O O O X X X 
+ 4 O O O O X X 
+ 5 O O X O O X 
+ 6 O O O O O X 
+Player O has no valid moves! Pass!
+Round 31:
+   A B C D E F
+ 1 . . X X X X 
+ 2 O O . X X X 
+ 3 O O O X X X 
+ 4 O O O O X X 
+ 5 O O X O O X 
+ 6 O O O O O X 
+Player X's turn:Round 32:
+   A B C D E F
+ 1 . . X X X X 
+ 2 O O X X X X 
+ 3 O O X X X X 
+ 4 O O X O X X 
+ 5 O O X O O X 
+ 6 O O O O O X 
+Player O has no valid moves! Pass!
+Round 33:
+   A B C D E F
+ 1 . . X X X X 
+ 2 O O X X X X 
+ 3 O O X X X X 
+ 4 O O X O X X 
+ 5 O O X O O X 
+ 6 O O O O O X 
+Player X's turn:Invalid move!
+Player X's turn:Round 34:
+   A B C D E F
+ 1 X . X X X X 
+ 2 O X X X X X 
+ 3 O O X X X X 
+ 4 O O X O X X 
+ 5 O O X O O X 
+ 6 O O O O O X 
+Player O's turn:Round 35:
+   A B C D E F
+ 1 X O X X X X 
+ 2 O O X X X X 
+ 3 O O X X X X 
+ 4 O O X O X X 
+ 5 O O X O O X 
+ 6 O O O O O X 
+Game over:
+   A B C D E F
+ 1 X O X X X X 
+ 2 O O X X X X 
+ 3 O O X X X X 
+ 4 O O X O X X 
+ 5 O O X O O X 
+ 6 O O O O O X 
+Player X wins!

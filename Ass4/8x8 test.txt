@@ -1,0 +1,287 @@
+Enter number of blocks: Too many blocks!
+Enter number of blocks: Enter position for block 1: Invalid position!
+Enter position for block 1:    A B C D E F G H
+ 1 . . . . . . . . 
+ 2 # . . . . . . . 
+ 3 . . . . . . . . 
+ 4 . . . X O . . . 
+ 5 . . . O X . . . 
+ 6 . . . . . . . . 
+ 7 . . . . . . . . 
+ 8 . . . . . . . . 
+Enter position for block 2: Invalid position!
+Enter position for block 2:    A B C D E F G H
+ 1 . . . . . . . . 
+ 2 # . . . . . . . 
+ 3 . . . . . . . . 
+ 4 . # . X O . . . 
+ 5 . . . O X . . . 
+ 6 . . . . . . . . 
+ 7 . . . . . . . . 
+ 8 . . . . . . . . 
+Enter position for block 3:    A B C D E F G H
+ 1 . . . . . . . . 
+ 2 # . . . . . . . 
+ 3 . . . # . . . . 
+ 4 . # . X O . . . 
+ 5 . . . O X . . . 
+ 6 . . . . . . . . 
+ 7 . . . . . . . . 
+ 8 . . . . . . . . 
+Enter position for block 4:    A B C D E F G H
+ 1 . . . . . . . . 
+ 2 # . . . . . . . 
+ 3 . . . # . . . . 
+ 4 . # . X O . . . 
+ 5 . . . O X . . . 
+ 6 . . . . . . # . 
+ 7 . . . . . . . . 
+ 8 . . . . . . . . 
+Enter position for block 5:    A B C D E F G H
+ 1 . . . . . . . . 
+ 2 # . . . . . . . 
+ 3 . . . # . . . . 
+ 4 . # . X O . . . 
+ 5 . . . O X . . . 
+ 6 . . . . . . # . 
+ 7 . # . . . . . . 
+ 8 . . . . . . . . 
+Enter position for block 6:    A B C D E F G H
+ 1 . . . . . . . . 
+ 2 # . . . . . . . 
+ 3 . . . # . . . . 
+ 4 . # . X O . . . 
+ 5 . . . O X . . . 
+ 6 . . . . . . # . 
+ 7 . # . . . # . . 
+ 8 . . . . . . . . 
+Enter position for block 7:    A B C D E F G H
+ 1 . . . . . . . . 
+ 2 # . . . . . # . 
+ 3 . . . # . . . . 
+ 4 . # . X O . . . 
+ 5 . . . O X . . . 
+ 6 . . . . . . # . 
+ 7 . # . . . # . . 
+ 8 . . . . . . . . 
+Enter position for block 8:    A B C D E F G H
+ 1 . . . . . . . . 
+ 2 # . . . . . # . 
+ 3 . . . # . . . . 
+ 4 . # . X O . . . 
+ 5 . . . O X . . . 
+ 6 . . . . . # # . 
+ 7 . # . . . # . . 
+ 8 . . . . . . . . 
+Enter position for block 9:    A B C D E F G H
+ 1 . . . . . . . . 
+ 2 # . . . . . # . 
+ 3 . . . # . . . . 
+ 4 . # # X O . . . 
+ 5 . . . O X . . . 
+ 6 . . . . . # # . 
+ 7 . # . . . # . . 
+ 8 . . . . . . . . 
+Enter position for block 10:    A B C D E F G H
+ 1 . . . . . . . . 
+ 2 # . . . . . # . 
+ 3 . . . # . . . . 
+ 4 . # # X O . . . 
+ 5 . . # O X . . . 
+ 6 . . . . . # # . 
+ 7 . # . . . # . . 
+ 8 . . . . . . . . 
+Enter position for block 11: Invalid position!
+Enter position for block 11:    A B C D E F G H
+ 1 . . . . . . . . 
+ 2 # . . . . . # . 
+ 3 . . # # . . . . 
+ 4 . # # X O . . . 
+ 5 . . # O X . . . 
+ 6 . . . . . # # . 
+ 7 . # . . . # . . 
+ 8 . . . . . . . . 
+Enter position for block 12:    A B C D E F G H
+ 1 . . . . . . . . 
+ 2 # . . . . . # . 
+ 3 . . # # . . . . 
+ 4 . # # X O . . . 
+ 5 . . # O X . . . 
+ 6 . . # . . # # . 
+ 7 . # . . . # . . 
+ 8 . . . . . . . . 
+Enter position for block 13:    A B C D E F G H
+ 1 . . . . . . . . 
+ 2 # . . . . . # . 
+ 3 . . # # . . . . 
+ 4 . # # X O . . . 
+ 5 . . # O X . . . 
+ 6 . . # . . # # . 
+ 7 . # # . . # . . 
+ 8 . . . . . . . . 
+Enter position for block 14:    A B C D E F G H
+ 1 . . . . . . . . 
+ 2 # . . . . . # . 
+ 3 . . # # . . . . 
+ 4 . # # X O . . . 
+ 5 . . # O X . . . 
+ 6 . . # . . # # . 
+ 7 . # # # . # . . 
+ 8 . . . . . . . . 
+Enter position for block 15:    A B C D E F G H
+ 1 . . . . . . . . 
+ 2 # . . . . . # . 
+ 3 . . # # . . . . 
+ 4 . # # X O . . . 
+ 5 . . # O X . . . 
+ 6 . . # . . # # . 
+ 7 . # # # # # . . 
+ 8 . . . . . . . . 
+Enter position for block 16:    A B C D E F G H
+ 1 . . . . . . . . 
+ 2 # . . # . . # . 
+ 3 . . # # . . . . 
+ 4 . # # X O . . . 
+ 5 . . # O X . . . 
+ 6 . . # . . # # . 
+ 7 . # # # # # . . 
+ 8 . . . . . . . . 
+Enter position for block 17:    A B C D E F G H
+ 1 . . . . . . . . 
+ 2 # . . # # . # . 
+ 3 . . # # . . . . 
+ 4 . # # X O . . . 
+ 5 . . # O X . . . 
+ 6 . . # . . # # . 
+ 7 . # # # # # . . 
+ 8 . . . . . . . . 
+Enter position for block 18:    A B C D E F G H
+ 1 . . . . . . . . 
+ 2 # . . # # # # . 
+ 3 . . # # . . . . 
+ 4 . # # X O . . . 
+ 5 . . # O X . . . 
+ 6 . . # . . # # . 
+ 7 . # # # # # . . 
+ 8 . . . . . . . . 
+Enter position for block 19:    A B C D E F G H
+ 1 . . . . . . . . 
+ 2 # . . # # # # . 
+ 3 . . # # . . # . 
+ 4 . # # X O . . . 
+ 5 . . # O X . . . 
+ 6 . . # . . # # . 
+ 7 . # # # # # . . 
+ 8 . . . . . . . . 
+Enter position for block 20:    A B C D E F G H
+ 1 . . . . . . . . 
+ 2 # . . # # # # . 
+ 3 . . # # . . # . 
+ 4 . # # X O . # . 
+ 5 . . # O X . . . 
+ 6 . . # . . # # . 
+ 7 . # # # # # . . 
+ 8 . . . . . . . . 
+Enter position for block 21:    A B C D E F G H
+ 1 . . . . . . . . 
+ 2 # . . # # # # . 
+ 3 . . # # . . # . 
+ 4 . # # X O . # . 
+ 5 . . # O X . # . 
+ 6 . . # . . # # . 
+ 7 . # # # # # . . 
+ 8 . . . . . . . . 
+Round 1:
+   A B C D E F G H
+ 1 . . . . . . . . 
+ 2 # . . # # # # . 
+ 3 . . # # . . # . 
+ 4 . # # X O . # . 
+ 5 . . # O X . # . 
+ 6 . . # . . # # . 
+ 7 . # # # # # . . 
+ 8 . . . . . . . . 
+Player X's turn:Round 2:
+   A B C D E F G H
+ 1 . . . . . . . . 
+ 2 # . . # # # # . 
+ 3 . . # # X . # . 
+ 4 . # # X X . # . 
+ 5 . . # O X . # . 
+ 6 . . # . . # # . 
+ 7 . # # # # # . . 
+ 8 . . . . . . . . 
+Player O's turn:Round 3:
+   A B C D E F G H
+ 1 . . . . . . . . 
+ 2 # . . # # # # . 
+ 3 . . # # X O # . 
+ 4 . # # X O . # . 
+ 5 . . # O X . # . 
+ 6 . . # . . # # . 
+ 7 . # # # # # . . 
+ 8 . . . . . . . . 
+Player X's turn:Round 4:
+   A B C D E F G H
+ 1 . . . . . . . . 
+ 2 # . . # # # # . 
+ 3 . . # # X O # . 
+ 4 . # # X O . # . 
+ 5 . . # X X . # . 
+ 6 . . # X . # # . 
+ 7 . # # # # # . . 
+ 8 . . . . . . . . 
+Player O's turn:Round 5:
+   A B C D E F G H
+ 1 . . . . . . . . 
+ 2 # . . # # # # . 
+ 3 . . # # X O # . 
+ 4 . # # X O . # . 
+ 5 . . # X O . # . 
+ 6 . . # X O # # . 
+ 7 . # # # # # . . 
+ 8 . . . . . . . . 
+Player X's turn:Invalid move!
+Player X's turn:Round 6:
+   A B C D E F G H
+ 1 . . . . . . . . 
+ 2 # . . # # # # . 
+ 3 . . # # X O # . 
+ 4 . # # X X X # . 
+ 5 . . # X X . # . 
+ 6 . . # X O # # . 
+ 7 . # # # # # . . 
+ 8 . . . . . . . . 
+Player O's turn:Round 7:
+   A B C D E F G H
+ 1 . . . . . . . . 
+ 2 # . . # # # # . 
+ 3 . . # # X O # . 
+ 4 . # # X X O # . 
+ 5 . . # X X O # . 
+ 6 . . # X O # # . 
+ 7 . # # # # # . . 
+ 8 . . . . . . . . 
+Player X has no valid moves! Pass!
+Round 8:
+   A B C D E F G H
+ 1 . . . . . . . . 
+ 2 # . . # # # # . 
+ 3 . . # # X O # . 
+ 4 . # # X X O # . 
+ 5 . . # X X O # . 
+ 6 . . # X O # # . 
+ 7 . # # # # # . . 
+ 8 . . . . . . . . 
+Player O has no valid moves! Pass!
+Game over:
+   A B C D E F G H
+ 1 . . . . . . . . 
+ 2 # . . # # # # . 
+ 3 . . # # X O # . 
+ 4 . # # X X O # . 
+ 5 . . # X X O # . 
+ 6 . . # X O # # . 
+ 7 . # # # # # . . 
+ 8 . . . . . . . . 
+Player X wins!

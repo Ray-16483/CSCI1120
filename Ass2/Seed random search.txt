@@ -1,0 +1,20 @@
+#include <iostream>
+#include <random>
+
+using namespace std;
+
+int main() {
+    int seed;
+    cout << "Enter seed: ";
+    cin >> seed;
+ 
+    mt19937 gen(seed);  // seed the generator
+    uniform_int_distribution<> distr1(0, 9);   // random int in [0, 9]
+    uniform_int_distribution<> distr2(1, 50);  // random int in [1, 50]
+
+    int a = distr1(gen);
+    int b = distr2(gen);
+
+    cout << a << endl;
+    cout << b << endl;
+}

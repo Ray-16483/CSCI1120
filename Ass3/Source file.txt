@@ -1,0 +1,59 @@
+// Name:       xxx
+// Student ID: xxxxxxxxxx
+// Email:      xxx
+
+#include "stringcoin.h"
+#include <iostream>
+#include <string>
+using namespace std;
+
+/* Returns true if position pos of the game network still has a string (not cut
+   yet); returns false otherwise (that is, string was already cut). */
+bool stringState(long long network, int pos) {
+    // TO DO; add a return statement in order to compile
+
+
+}
+
+/* Prints the network to the screen. Do NOT modify! Do NOT use any arrays
+   outside this function! */
+void printNetwork(long long network) {
+    int i;
+    string s[18];    // Do NOT use any arrays outside this function!
+
+    for (i = 1; i <= 17; i++)
+        if (i <= 3 || i >= 15 || (i >= 8 && i <= 10))
+            s[i] = stringState(network, i) ? "|" : " ";
+        else
+            s[i] = stringState(network, i) ? "--" : "  ";
+
+    cout << "*************\n";
+    for (i = 1; i <= 17; i += 7) {
+        cout << "*  " << s[i] << "  " << s[i + 1] << "  " << s[i + 2]
+             << "  *\n";
+        if (i < 15)
+            cout << "*" << s[i + 3] << "$" << s[i + 4] << "$" << s[i + 5]
+                 << "$" << s[i + 6] << "*\n";
+    }
+    cout << "*************\n";
+    cout << "Player 1 score: " << network / 10 % 10 << endl;
+    cout << "Player 2 score: " << network % 10 << endl;
+}
+
+/* Returns the score of Player p in network. (Either the 18th or 19th digit in
+   network.) */
+int playerScore(long long network, int p) {
+    // TO DO; add a return statement in order to compile
+
+
+}
+
+/* Performs the task of Player p cutting a string in position pos of network.
+   The reference parameter network should get updated, and if any coins are
+   disconnected, the score of Player p shall be incremented, to reflect the new
+   network configuration. */
+void updateNetwork(long long &network, int pos, int p) {
+    // TO DO
+
+
+}
