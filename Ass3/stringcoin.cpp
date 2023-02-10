@@ -67,8 +67,8 @@ int playerScore(long long network, int p) {
    The reference parameter network should get updated, and if any coins are
    disconnected, the score of Player p shall be incremented, to reflect the new
    network configuration. */
-//1. 更新network
-//2. 更新score
+//1. 赂眉脨脗network
+//2. 赂眉脨脗score
 void updateNetwork(long long &network, int pos, int p) {
     // TO DO
     long long c;
